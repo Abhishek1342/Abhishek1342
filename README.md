@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1342" /> </p>
-<img align="right" width="40%" height"40%" src ="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/48b74ed45987c6c6bf554b30f3afbd4f.gif">
+<img align="right" width="40%" height"40%" src ="https://cdn.dribbble.com/users/1913706/screenshots/9159261/media/8210972882239c0c1f262a109456d503.mp4">
 
 - 🔭 I’m currently working on **DigiComp ( Doctors on a single platform )**
 
