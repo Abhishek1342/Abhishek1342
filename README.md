@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1342" /> </p>
 <img align="right" width="40%" height"40%" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
 
-- 🔭 I’m currently working on **DigiComp ( Doctors on a single platform )**
+- 🔭 I’m currently working on **iChat**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express**
 
 - 👯 I’m looking to collaborate on **Web development**
 
