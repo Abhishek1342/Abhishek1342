@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1342" /> </p>
-<img align="right" width="40%" height"40%" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
+
+<a href="https://app.daily.dev/abhishek1342"><img align="right" src="https://api.daily.dev/devcards/36c5b500300542869c9ecb17a85da042.png?r=ma0" width="300" alt="Abhishek's Dev Card"/></a>
 
 - 🔭 I’m currently working on **iChat**
 
