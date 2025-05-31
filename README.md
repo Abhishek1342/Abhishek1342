@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 📫 How to reach me **119cs0044@iiitk.ac.in**
+- 📫 How to reach me **git.with.abhishek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
